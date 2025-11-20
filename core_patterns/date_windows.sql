@@ -1,6 +1,3 @@
-## `core_patterns/date_windows.sql`
-
-```sql
 -- core_patterns/date_windows.sql
 -- Time window patterns for weekly / yearly KPIs.
 -- :cutoff_date should be replaced with a date literal (YYYY-MM-DD).
